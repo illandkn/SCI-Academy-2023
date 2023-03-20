@@ -1,0 +1,15 @@
+C:\CincoCSharp\CincoCSharp\bin\Debug\net7.0\CincoCSharp.exe
+C:\CincoCSharp\CincoCSharp\bin\Debug\net7.0\CincoCSharp.deps.json
+C:\CincoCSharp\CincoCSharp\bin\Debug\net7.0\CincoCSharp.runtimeconfig.json
+C:\CincoCSharp\CincoCSharp\bin\Debug\net7.0\CincoCSharp.dll
+C:\CincoCSharp\CincoCSharp\bin\Debug\net7.0\CincoCSharp.pdb
+C:\CincoCSharp\CincoCSharp\obj\Debug\net7.0\CincoCSharp.csproj.AssemblyReference.cache
+C:\CincoCSharp\CincoCSharp\obj\Debug\net7.0\CincoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CincoCSharp\CincoCSharp\obj\Debug\net7.0\CincoCSharp.AssemblyInfoInputs.cache
+C:\CincoCSharp\CincoCSharp\obj\Debug\net7.0\CincoCSharp.AssemblyInfo.cs
+C:\CincoCSharp\CincoCSharp\obj\Debug\net7.0\CincoCSharp.csproj.CoreCompileInputs.cache
+C:\CincoCSharp\CincoCSharp\obj\Debug\net7.0\CincoCSharp.dll
+C:\CincoCSharp\CincoCSharp\obj\Debug\net7.0\refint\CincoCSharp.dll
+C:\CincoCSharp\CincoCSharp\obj\Debug\net7.0\CincoCSharp.pdb
+C:\CincoCSharp\CincoCSharp\obj\Debug\net7.0\CincoCSharp.genruntimeconfig.cache
+C:\CincoCSharp\CincoCSharp\obj\Debug\net7.0\ref\CincoCSharp.dll

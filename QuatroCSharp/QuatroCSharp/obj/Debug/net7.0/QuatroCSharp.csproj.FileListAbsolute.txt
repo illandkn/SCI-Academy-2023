@@ -1,0 +1,15 @@
+C:\QuatroCSharp\QuatroCSharp\bin\Debug\net7.0\QuatroCSharp.exe
+C:\QuatroCSharp\QuatroCSharp\bin\Debug\net7.0\QuatroCSharp.deps.json
+C:\QuatroCSharp\QuatroCSharp\bin\Debug\net7.0\QuatroCSharp.runtimeconfig.json
+C:\QuatroCSharp\QuatroCSharp\bin\Debug\net7.0\QuatroCSharp.dll
+C:\QuatroCSharp\QuatroCSharp\bin\Debug\net7.0\QuatroCSharp.pdb
+C:\QuatroCSharp\QuatroCSharp\obj\Debug\net7.0\QuatroCSharp.csproj.AssemblyReference.cache
+C:\QuatroCSharp\QuatroCSharp\obj\Debug\net7.0\QuatroCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\QuatroCSharp\QuatroCSharp\obj\Debug\net7.0\QuatroCSharp.AssemblyInfoInputs.cache
+C:\QuatroCSharp\QuatroCSharp\obj\Debug\net7.0\QuatroCSharp.AssemblyInfo.cs
+C:\QuatroCSharp\QuatroCSharp\obj\Debug\net7.0\QuatroCSharp.csproj.CoreCompileInputs.cache
+C:\QuatroCSharp\QuatroCSharp\obj\Debug\net7.0\QuatroCSharp.dll
+C:\QuatroCSharp\QuatroCSharp\obj\Debug\net7.0\refint\QuatroCSharp.dll
+C:\QuatroCSharp\QuatroCSharp\obj\Debug\net7.0\QuatroCSharp.pdb
+C:\QuatroCSharp\QuatroCSharp\obj\Debug\net7.0\QuatroCSharp.genruntimeconfig.cache
+C:\QuatroCSharp\QuatroCSharp\obj\Debug\net7.0\ref\QuatroCSharp.dll

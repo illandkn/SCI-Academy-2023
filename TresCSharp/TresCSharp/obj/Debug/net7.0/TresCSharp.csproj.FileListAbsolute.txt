@@ -1,0 +1,15 @@
+C:\TresCSharp\TresCSharp\bin\Debug\net7.0\TresCSharp.exe
+C:\TresCSharp\TresCSharp\bin\Debug\net7.0\TresCSharp.deps.json
+C:\TresCSharp\TresCSharp\bin\Debug\net7.0\TresCSharp.runtimeconfig.json
+C:\TresCSharp\TresCSharp\bin\Debug\net7.0\TresCSharp.dll
+C:\TresCSharp\TresCSharp\bin\Debug\net7.0\TresCSharp.pdb
+C:\TresCSharp\TresCSharp\obj\Debug\net7.0\TresCSharp.csproj.AssemblyReference.cache
+C:\TresCSharp\TresCSharp\obj\Debug\net7.0\TresCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\TresCSharp\TresCSharp\obj\Debug\net7.0\TresCSharp.AssemblyInfoInputs.cache
+C:\TresCSharp\TresCSharp\obj\Debug\net7.0\TresCSharp.AssemblyInfo.cs
+C:\TresCSharp\TresCSharp\obj\Debug\net7.0\TresCSharp.csproj.CoreCompileInputs.cache
+C:\TresCSharp\TresCSharp\obj\Debug\net7.0\TresCSharp.dll
+C:\TresCSharp\TresCSharp\obj\Debug\net7.0\refint\TresCSharp.dll
+C:\TresCSharp\TresCSharp\obj\Debug\net7.0\TresCSharp.pdb
+C:\TresCSharp\TresCSharp\obj\Debug\net7.0\TresCSharp.genruntimeconfig.cache
+C:\TresCSharp\TresCSharp\obj\Debug\net7.0\ref\TresCSharp.dll

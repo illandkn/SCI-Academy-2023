@@ -1,0 +1,15 @@
+C:\UmCSharp\UmCSharp\bin\Debug\net7.0\UmCSharp.exe
+C:\UmCSharp\UmCSharp\bin\Debug\net7.0\UmCSharp.deps.json
+C:\UmCSharp\UmCSharp\bin\Debug\net7.0\UmCSharp.runtimeconfig.json
+C:\UmCSharp\UmCSharp\bin\Debug\net7.0\UmCSharp.dll
+C:\UmCSharp\UmCSharp\bin\Debug\net7.0\UmCSharp.pdb
+C:\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.csproj.AssemblyReference.cache
+C:\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.AssemblyInfoInputs.cache
+C:\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.AssemblyInfo.cs
+C:\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.csproj.CoreCompileInputs.cache
+C:\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.dll
+C:\UmCSharp\UmCSharp\obj\Debug\net7.0\refint\UmCSharp.dll
+C:\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.pdb
+C:\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.genruntimeconfig.cache
+C:\UmCSharp\UmCSharp\obj\Debug\net7.0\ref\UmCSharp.dll

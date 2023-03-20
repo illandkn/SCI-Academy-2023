@@ -1,0 +1,15 @@
+C:\DoisCSharp\DoisCSharp\bin\Debug\net7.0\DoisCSharp.exe
+C:\DoisCSharp\DoisCSharp\bin\Debug\net7.0\DoisCSharp.deps.json
+C:\DoisCSharp\DoisCSharp\bin\Debug\net7.0\DoisCSharp.runtimeconfig.json
+C:\DoisCSharp\DoisCSharp\bin\Debug\net7.0\DoisCSharp.dll
+C:\DoisCSharp\DoisCSharp\bin\Debug\net7.0\DoisCSharp.pdb
+C:\DoisCSharp\DoisCSharp\obj\Debug\net7.0\DoisCSharp.csproj.AssemblyReference.cache
+C:\DoisCSharp\DoisCSharp\obj\Debug\net7.0\DoisCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DoisCSharp\DoisCSharp\obj\Debug\net7.0\DoisCSharp.AssemblyInfoInputs.cache
+C:\DoisCSharp\DoisCSharp\obj\Debug\net7.0\DoisCSharp.AssemblyInfo.cs
+C:\DoisCSharp\DoisCSharp\obj\Debug\net7.0\DoisCSharp.csproj.CoreCompileInputs.cache
+C:\DoisCSharp\DoisCSharp\obj\Debug\net7.0\DoisCSharp.dll
+C:\DoisCSharp\DoisCSharp\obj\Debug\net7.0\refint\DoisCSharp.dll
+C:\DoisCSharp\DoisCSharp\obj\Debug\net7.0\DoisCSharp.pdb
+C:\DoisCSharp\DoisCSharp\obj\Debug\net7.0\DoisCSharp.genruntimeconfig.cache
+C:\DoisCSharp\DoisCSharp\obj\Debug\net7.0\ref\DoisCSharp.dll
